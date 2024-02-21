@@ -1,2 +1,2 @@
-# uCloud
-Remotely play video games from your PC
+# rWarp
+Remotely play video games from your PC on your phone
